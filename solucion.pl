@@ -6,14 +6,14 @@
 %
 %  Representa un alumno de la asignatura.
 %
-%  @param +Nombre: Nombre completo del alumno.
-%  @param +Correo: Correo electrónico institucional.
-%  @param +Grado:  Grado del alumno (Ciber | IA).
+%  @param +Nombre: Rania El Hajoui Feddi
+%  @param +Correo: r.elhajoui.2025@alumnos.urjc.es
+%  @param +Grado:  IA.
 
 alumno('Joan Clarke', 'j.clarke.2026@alumnos.urjc.es', 'Ciber').
 
 %% Ejemplo alumno de IA
-% alumno('John McCarthy', 'j.mccarthy.2026@alumnos.urjc.es', 'IA').
+% alumno('Rania El Hajoui Feddi', 'r.elhajoui.2025@alumnos.urjc.es', 'IA').
 
 
 %% Este ejercicio esta ya resuelto
